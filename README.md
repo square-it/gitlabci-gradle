@@ -1,5 +1,3 @@
-# gitlabci-gradle
-
 # Docker Gradle image for execute jobs in gitlabci
 
 [Gradle](https://gradle.org/) is an open-source build automation system that builds upon the concepts of Apache Ant and Apache Maven and introduces a Groovy-based domain-specific language (DSL) instead of the XML form used by Apache Maven for declaring the project configuration (source : [wikipedia](https://en.wikipedia.org/wiki/Gradle)).  
