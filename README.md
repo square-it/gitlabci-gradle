@@ -10,7 +10,7 @@ Images are available on dockerhub : [squareitservices/gitlabci-gradle](https://h
 ```shell
 git clone git@github.com:square-it/gitlabci-gradle.git
 docker build -t gitlabci-gradle:4.7-1 .
-docker tag 380cf19bdef5 squareitservices/gitlabci-gradle:4.7-1
+docker tag gitlabci-gradle:4.7-1 squareitservices/gitlabci-gradle:4.7-1
 docker push squareitservices/gitlabci-gradle:4.7-1
 ```
 
